@@ -1,0 +1,12 @@
+{
+  "counter": {
+    "decrement": "Décrémenter",
+    "increment": "Incrémenter"
+  },
+  "landing": {
+    "welcome": "Bienvenue"
+  },
+  "errorcode.-1": "ERREUR RÉSEAU",
+  "errorcode.404": "IMPOSSIBLE DE TROUVER LA RESSOURCE",
+  "errorcode.fallback": "ERREUR RÉSEAU"
+}
